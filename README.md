@@ -8,4 +8,7 @@
 编辑文件
 
 提交 Commit
-“\n 我正在发起第一个Pull Request练习。”
+“\\n 我正在发起第一个Pull Request练习。”
+
+我是通过本地修改，然后推送到GitHub的！
+
